@@ -1,7 +1,10 @@
 ## Welcome to raynbowy23's Github!
 
-Building transportation system on the other planets.
+Building transportation system on Mars.
 
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="raynbowy23's koi" />
+</div>
   
 <div align="left">
   
