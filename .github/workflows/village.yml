@@ -13,7 +13,7 @@
         - uses: actions/checkout@v4
         - uses: raynbowy23/git-village@v0.1.0
           with:
-            setting: earth
+            setting: mars
         - name: Commit changed GIF
           run: |
             git add village/village.gif
